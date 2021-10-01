@@ -159,6 +159,13 @@
     alt="Jamstack"
     title="Jamstack"
   />
+  <img
+    src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png"
+    height="48"
+    width="48"
+    alt="Expo"
+    title="Expo"
+  />
 </div>
 <br />
 <div>
