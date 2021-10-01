@@ -34,7 +34,7 @@
     title="Node.js"
   />
   <img
-       src="https://raw.githubusercontent.com/rafaelpapastamatiou/icons/main/circle.svg?sanitize=true"
+       src="https://raw.githubusercontent.com/rafaelpapastamatiou/icons/main/circle.svg"
        height="24"
        width="24"
        />
@@ -67,7 +67,7 @@
     title="Express.js"
   />
   <img
-       src="https://raw.githubusercontent.com/rafaelpapastamatiou/icons/main/circle.svg?sanitize=true"
+       src="https://raw.githubusercontent.com/rafaelpapastamatiou/icons/main/circle.svg"
        height="24"
        width="24"
        />
@@ -79,7 +79,7 @@
     title="Redux"
   />
   <img
-       src="https://raw.githubusercontent.com/rafaelpapastamatiou/icons/main/circle.svg?sanitize=true"
+       src="https://raw.githubusercontent.com/rafaelpapastamatiou/icons/main/circle.svg"
        height="24"
        width="24"
        />
