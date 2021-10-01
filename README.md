@@ -93,6 +93,20 @@
     title="TypeORM"
   />
   <img
+    src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logomark-colored.svg"
+    height="32"
+    width="32"
+    alt="Chakra UI"
+    title="Chakra UI"
+  />
+   <img
+    src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"
+    height="32"
+    width="32"
+    alt="Ant Design"
+    title="Ant Design"
+  />
+  <img
        src="https://raw.githubusercontent.com/rafaelpapastamatiou/icons/main/circle.svg"
        height="32"
        width="32"
