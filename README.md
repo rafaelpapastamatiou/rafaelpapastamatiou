@@ -49,7 +49,6 @@
       height="32"
       width="32"
     />
-
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
       height="32"
