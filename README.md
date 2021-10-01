@@ -27,11 +27,6 @@
     title="Typescript"
   />
   <img
-       src="https://raw.githubusercontent.com/rafaelpapastamatiou/icons/main/circle.svg"
-       height="32"
-       width="32"
-  />
-  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
     height="32"
     width="32"
@@ -65,11 +60,6 @@
     width="32"
     alt="Express.js"
     title="Express.js"
-  />
-  <img
-       src="https://raw.githubusercontent.com/rafaelpapastamatiou/icons/main/circle.svg"
-       height="32"
-       width="32"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
@@ -113,11 +103,6 @@
     alt="React Query"
     title="React Query"
   />
-  <img
-       src="https://raw.githubusercontent.com/rafaelpapastamatiou/icons/main/circle.svg"
-       height="32"
-       width="32"
-   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
     height="32"
