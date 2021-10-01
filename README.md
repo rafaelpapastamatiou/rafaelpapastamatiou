@@ -113,7 +113,7 @@
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
     height="48"
-    width="48"
+    width="32"
     alt="MongoDB"
     title="MongoDB"
   />
