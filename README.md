@@ -50,21 +50,21 @@
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
     height="48"
-    width="48"
+    width="50"
     alt="NestJS"
     title="NestJS"
   />
   <img
     src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4"
     height="48"
-    width="54"
+    width="48"
     alt="Express.js"
     title="Express.js"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
     height="48"
-    width="48"
+    width="50"
     alt="Redux e Redux Toolkit"
     title="Redux e Redux Toolkit"
   />
