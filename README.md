@@ -99,7 +99,7 @@
    <img
     src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"
     height="48"
-    width="48"
+    width="54"
     alt="Ant Design"
     title="Ant Design"
   />
