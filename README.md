@@ -79,6 +79,20 @@
     title="Redux"
   />
   <img
+    src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/sequelize/sequelize-original.svg"
+    height="32"
+    width="32"
+    alt="Sequelize"
+    title="Sequelize"
+  />
+  <img
+    src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4"
+    height="32"
+    width="32"
+    alt="TypeORM"
+    title="TypeORM"
+  />
+  <img
        src="https://raw.githubusercontent.com/rafaelpapastamatiou/icons/main/circle.svg"
        height="32"
        width="32"
