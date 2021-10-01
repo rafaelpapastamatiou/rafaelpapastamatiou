@@ -71,7 +71,7 @@
   <img
     src="https://cdn.worldvectorlogo.com/logos/redux-saga.svg"
     height="48"
-    width="72"
+    width="96"
     alt="Redux Saga"
     title="Redux Saga"
   />
