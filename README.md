@@ -27,17 +27,17 @@
     title="Typescript"
   />
   <img
+       src="https://raw.githubusercontent.com/rafaelpapastamatiou/icons/main/circle.svg"
+       height="24"
+       width="24"
+  />
+  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
     height="24"
     width="24"
     alt="Node.js"
     title="Node.js"
   />
-  <img
-       src="https://raw.githubusercontent.com/rafaelpapastamatiou/icons/main/circle.svg"
-       height="24"
-       width="24"
-       />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
     height="24"
@@ -70,7 +70,7 @@
        src="https://raw.githubusercontent.com/rafaelpapastamatiou/icons/main/circle.svg"
        height="24"
        width="24"
-       />
+  />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
     height="24"
@@ -82,7 +82,7 @@
        src="https://raw.githubusercontent.com/rafaelpapastamatiou/icons/main/circle.svg"
        height="24"
        width="24"
-       />
+   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
     height="24"
