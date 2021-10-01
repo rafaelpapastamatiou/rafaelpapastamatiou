@@ -12,22 +12,22 @@
 </div>
 <div>
   <img
-    src="<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/typescript-original.svg'>"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/typescript-original.svg"
   />
   <img
-    src="<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/typescript-original.svg'>"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/typescript-original.svg"
   />
   <img
-    src="<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/nodejs-original.svg'>"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/nodejs-original.svg"
   />
   <img
-    src="<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/react-original.svg'>"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/react-original.svg"
   />
   <img
-    src="<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/nextjs-original.svg'>"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/nextjs-original.svg"
   />
   <img
-    src="<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/nestjs-plain.svg'>"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/nestjs-plain.svg"
   />
 </div>
 <div>
