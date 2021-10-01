@@ -153,7 +153,7 @@
     title="GraphQL"
   />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/jamstack-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg"
     height="48"
     width="48"
     alt="Jamstack"
