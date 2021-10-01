@@ -14,7 +14,7 @@
 </div>
 <div>
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/typescript-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
        height="32"
       width="32"
   />
