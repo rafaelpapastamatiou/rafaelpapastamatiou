@@ -16,56 +16,67 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
     height="24"
     width="24"
+    alt="Javascript"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
     height="24"
     width="24"
+    alt="Typescript"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
     height="24"
     width="24"
+    alt="Node.js"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
     height="24"
     width="24"
+    alt="React JS"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
     height="24"
     width="24"
+    alt="Next.js"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
     height="24"
     width="24"
+    alt="NestJS"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
     height="24"
     width="24"
+    alt="Express.js"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
     height="24"
     width="24"
+    alt="Redux"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
     height="24"
     width="24"
+    alt="MongoDB"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
     height="24"
     width="24"
+    alt="MySQL"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
     height="24"
     width="24"
+    alt="PostgreSQL"
   />
 </div>
 <br />
