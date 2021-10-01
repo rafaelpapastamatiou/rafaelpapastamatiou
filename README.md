@@ -41,7 +41,7 @@
     title="React JS"
   />
   <img
-    src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/next_logo.png"
+    src="https://github.com/rafaelpapastamatiou/icons/blob/main/nextjs-icon-light.svg"
     height="24"
     width="24"
     alt="Next.js"
