@@ -23,7 +23,7 @@
       width="32"
     />
   </div>
-  <div style="margin-left: 16px;">
+  <div>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
       height="32"
@@ -55,7 +55,7 @@
       width="32"
     />
   </div>
-  <div style="margin-left: 16px;">
+  <div>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
       height="32"
