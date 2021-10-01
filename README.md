@@ -7,67 +7,72 @@
   <a href="mailto:rafael@papastamatiou.com">
     <img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      height="32"
-      width="32"
     />
   </a>
 </div>
 <div>
+  <div>
     <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-       height="32"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      height="32"
       width="32"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-       height="32"
-      width="32"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-       height="32"
-      width="32"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-       height="32"
-      width="32"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-       height="32"
-      width="32"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
-       height="32"
-      width="32"
-  />
+    />
     <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-       height="32"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      height="32"
       width="32"
-  />
-      <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-       height="32"
+    />
+  </div>
+  <div>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+      height="32"
       width="32"
-  />
-        <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-       height="32"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      height="32"
       width="32"
-  />
-        <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-       height="32"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+      height="32"
       width="32"
-  />
-        <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-       height="32"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
+      height="32"
       width="32"
-  />
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+      height="32"
+      width="32"
+    />
+
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+      height="32"
+      width="32"
+    />
+  </div>
+  <div>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+      height="32"
+      width="32"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+      height="32"
+      width="32"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+      height="32"
+      width="32"
+    />
+  </div>
 </div>
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
