@@ -42,15 +42,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
     height="32"
     width="32"
-    alt="React JS"
-    title="React JS"
-  />
-  <img
-    src="https://image.pngaaa.com/930/2507930-middle.png"
-    height="32"
-    width="32"
-    alt="React Native"
-    title="React Native"
+    alt="React JS e React Native"
+    title="React JS e React Native"
   />
   <img
     src="https://github.com/rafaelpapastamatiou/icons/blob/main/nextjs-icon-light.svg"
