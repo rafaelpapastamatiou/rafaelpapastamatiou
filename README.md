@@ -33,10 +33,11 @@
     alt="Node.js"
     title="Node.js"
   />
-<svg height="24" width="24">
-  <circle cx="50" cy="50" r="40" stroke-width="3" fill="white" />
-  Sorry, your browser does not support inline SVG.  
-</svg> 
+  <img
+       src="https://github.com/rafaelpapastamatiou/icons/blob/main/circle.svg"
+       height="24"
+       width="24"
+       />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
     height="24"
@@ -65,10 +66,11 @@
     alt="Express.js"
     title="Express.js"
   />
-<svg height="24" width="24">
-  <circle cx="50" cy="50" r="40" stroke-width="3" fill="white" />
-  Sorry, your browser does not support inline SVG.  
-</svg> 
+  <img
+       src="https://github.com/rafaelpapastamatiou/icons/blob/main/circle.svg"
+       height="24"
+       width="24"
+       />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
     height="24"
@@ -77,9 +79,10 @@
     title="Redux"
   />
   <img
+       src="https://github.com/rafaelpapastamatiou/icons/blob/main/circle.svg"
        height="24"
        width="24"
-  />
+       />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
     height="24"
