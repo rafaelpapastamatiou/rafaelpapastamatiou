@@ -7,24 +7,36 @@
   <a href="mailto:rafael@papastamatiou.com">
     <img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      height="32"
+      width="32"
     />
   </a>
 </div>
 <div>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/typescript-original.svg"
+       height="32"
+      width="32"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+       height="32"
+      width="32"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+       height="32"
+      width="32"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+       height="32"
+      width="32"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
+       height="32"
+      width="32"
   />
 </div>
 <div>
