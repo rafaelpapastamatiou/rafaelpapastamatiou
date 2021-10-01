@@ -46,7 +46,7 @@
     title="React JS"
   />
   <img
-    src="https://image.pngaaa.com/11/2508011-middle.png"
+    src="https://image.pngaaa.com/930/2507930-middle.png"
     height="32"
     width="32"
     alt="React Native"
