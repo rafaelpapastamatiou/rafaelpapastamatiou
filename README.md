@@ -69,6 +69,10 @@
     title="Redux"
   />
   <img
+       height="24"
+       width="24"
+  />
+  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
     height="24"
     width="24"
