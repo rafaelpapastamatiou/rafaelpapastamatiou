@@ -57,7 +57,7 @@
   <img
     src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4"
     height="48"
-    width="48"
+    width="54"
     alt="Express.js"
     title="Express.js"
   />
