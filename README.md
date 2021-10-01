@@ -55,7 +55,7 @@
     title="NestJS"
   />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+    src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4"
     height="32"
     width="32"
     alt="Express.js"
