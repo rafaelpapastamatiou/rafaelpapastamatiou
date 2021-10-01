@@ -14,58 +14,58 @@
 <div>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-    height="32"
-    width="32"
+    height="24"
+    width="24"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-    height="32"
-    width="32"
+    height="24"
+    width="24"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-    height="32"
-    width="32"
+    height="24"
+    width="24"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-    height="32"
-    width="32"
+    height="24"
+    width="24"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-    height="32"
-    width="32"
+    height="24"
+    width="24"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
-    height="32"
-    width="32"
+    height="24"
+    width="24"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-    height="32"
-    width="32"
+    height="24"
+    width="24"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-    height="32"
-    width="32"
+    height="24"
+    width="24"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-    height="32"
-    width="32"
+    height="24"
+    width="24"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-    height="32"
-    width="32"
+    height="24"
+    width="24"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-    height="32"
-    width="32"
+    height="24"
+    width="24"
   />
 </div>
 <br />
