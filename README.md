@@ -69,6 +69,13 @@
     title="Redux"
   />
   <img
+    src="https://cdn.worldvectorlogo.com/logos/redux-saga.svg"
+    height="48"
+    width="64"
+    alt="Redux Saga"
+    title="Redux Saga"
+  />
+  <img
     src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/sequelize/sequelize-original.svg"
     height="48"
     width="48"
