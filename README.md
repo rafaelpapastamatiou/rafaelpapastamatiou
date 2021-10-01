@@ -14,93 +14,93 @@
 <div>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-    height="24"
-    width="24"
+    height="32"
+    width="32"
     alt="Javascript"
     title="Javascript"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-    height="24"
-    width="24"
+    height="32"
+    width="32"
     alt="Typescript"
     title="Typescript"
   />
   <img
        src="https://raw.githubusercontent.com/rafaelpapastamatiou/icons/main/circle.svg"
-       height="24"
-       width="24"
+       height="32"
+       width="32"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-    height="24"
-    width="24"
+    height="32"
+    width="32"
     alt="Node.js"
     title="Node.js"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-    height="24"
-    width="24"
+    height="32"
+    width="32"
     alt="React JS"
     title="React JS"
   />
   <img
     src="https://github.com/rafaelpapastamatiou/icons/blob/main/nextjs-icon-light.svg"
-    height="24"
-    width="24"
+    height="32"
+    width="32"
     alt="Next.js"
     title="Next.js"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
-    height="24"
-    width="24"
+    height="32"
+    width="32"
     alt="NestJS"
     title="NestJS"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-    height="24"
-    width="24"
+    height="32"
+    width="32"
     alt="Express.js"
     title="Express.js"
   />
   <img
        src="https://raw.githubusercontent.com/rafaelpapastamatiou/icons/main/circle.svg"
-       height="24"
-       width="24"
+       height="32"
+       width="32"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-    height="24"
-    width="24"
+    height="32"
+    width="32"
     alt="Redux"
     title="Redux"
   />
   <img
        src="https://raw.githubusercontent.com/rafaelpapastamatiou/icons/main/circle.svg"
-       height="24"
-       width="24"
+       height="32"
+       width="32"
    />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-    height="24"
-    width="24"
+    height="32"
+    width="32"
     alt="MongoDB"
     title="MongoDB"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-    height="24"
-    width="24"
+    height="32"
+    width="32"
     alt="MySQL"
     title="MySQL"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-    height="24"
-    width="24"
+    height="32"
+    width="32"
     alt="PostgreSQL"
     title="PostgreSQL"
   />
