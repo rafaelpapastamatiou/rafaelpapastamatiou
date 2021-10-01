@@ -33,6 +33,10 @@
     alt="Node.js"
     title="Node.js"
   />
+    <img
+       height="24"
+       width="24"
+  />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
     height="24"
@@ -60,6 +64,10 @@
     width="24"
     alt="Express.js"
     title="Express.js"
+  />
+    <img
+       height="24"
+       width="24"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
