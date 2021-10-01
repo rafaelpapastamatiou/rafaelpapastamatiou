@@ -65,8 +65,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
     height="48"
     width="48"
-    alt="Redux"
-    title="Redux"
+    alt="Redux e Redux Toolkit"
+    title="Redux e Redux Toolkit"
   />
   <img
     src="https://cdn.worldvectorlogo.com/logos/redux-saga.svg"
