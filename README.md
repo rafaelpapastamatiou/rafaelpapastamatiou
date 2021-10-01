@@ -46,6 +46,13 @@
     title="React JS"
   />
   <img
+    src="https://image.pngaaa.com/11/2508011-middle.png"
+    height="32"
+    width="32"
+    alt="React Native"
+    title="React Native"
+  />
+  <img
     src="https://github.com/rafaelpapastamatiou/icons/blob/main/nextjs-icon-light.svg"
     height="32"
     width="32"
@@ -105,6 +112,13 @@
     width="32"
     alt="Ant Design"
     title="Ant Design"
+  />
+   <img
+    src="https://react-query-v2.tanstack.com/_next/static/images/emblem-light-5d1cdce6c8bbb006ac6cefb8e1642877.svg"
+    height="32"
+    width="32"
+    alt="React Query"
+    title="React Query"
   />
   <img
        src="https://raw.githubusercontent.com/rafaelpapastamatiou/icons/main/circle.svg"
