@@ -17,66 +17,77 @@
     height="24"
     width="24"
     alt="Javascript"
+    title="Javascript"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
     height="24"
     width="24"
     alt="Typescript"
+    title="Typescript"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
     height="24"
     width="24"
     alt="Node.js"
+    title="Node.js"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
     height="24"
     width="24"
     alt="React JS"
+    title="React JS"
   />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+    src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/next_logo.png"
     height="24"
     width="24"
     alt="Next.js"
+    title="Next.js"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
     height="24"
     width="24"
     alt="NestJS"
+    title="NestJS"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
     height="24"
     width="24"
     alt="Express.js"
+    title="Express.js"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
     height="24"
     width="24"
     alt="Redux"
+    title="Redux"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
     height="24"
     width="24"
     alt="MongoDB"
+    title="MongoDB"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
     height="24"
     width="24"
     alt="MySQL"
+    title="MySQL"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
     height="24"
     width="24"
     alt="PostgreSQL"
+    title="PostgreSQL"
   />
 </div>
 <br />
