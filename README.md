@@ -138,6 +138,27 @@
     alt="Heroku"
     title="Heroku"
   />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+    height="48"
+    width="48"
+    alt="Docker"
+    title="Docker"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
+    height="48"
+    width="48"
+    alt="GraphQL"
+    title="GraphQL"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/jamstack-original.svg"
+    height="48"
+    width="48"
+    alt="Jamstack"
+    title="Jamstack"
+  />
 </div>
 <br />
 <div>
