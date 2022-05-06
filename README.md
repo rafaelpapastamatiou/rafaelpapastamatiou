@@ -62,20 +62,6 @@
     title="Express.js"
   />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-    height="48"
-    width="50"
-    alt="Redux e Redux Toolkit"
-    title="Redux e Redux Toolkit"
-  />
-  <img
-    src="https://cdn.worldvectorlogo.com/logos/redux-saga.svg"
-    height="48"
-    width="80"
-    alt="Redux Saga"
-    title="Redux Saga"
-  />
-  <img
     src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/sequelize/sequelize-original.svg"
     height="48"
     width="48"
@@ -88,34 +74,6 @@
     width="48"
     alt="TypeORM"
     title="TypeORM"
-  />
-  <img
-    src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logomark-colored.svg"
-    height="48"
-    width="48"
-    alt="Chakra UI"
-    title="Chakra UI"
-  />
-   <img
-    src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"
-    height="48"
-    width="54"
-    alt="Ant Design"
-    title="Ant Design"
-  />
-   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-    height="48"
-    width="48"
-    alt="Sass"
-    title="Sass"
-  />
-   <img
-    src="https://react-query-v2.tanstack.com/_next/static/images/emblem-light-5d1cdce6c8bbb006ac6cefb8e1642877.svg"
-    height="48"
-    width="48"
-    alt="React Query"
-    title="React Query"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
@@ -146,13 +104,6 @@
     title="AWS"
   />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"
-    height="48"
-    width="48"
-    alt="Heroku"
-    title="Heroku"
-  />
-  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
     height="48"
     width="48"
@@ -165,20 +116,6 @@
     width="48"
     alt="GraphQL"
     title="GraphQL"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg"
-    height="48"
-    width="48"
-    alt="Jamstack"
-    title="Jamstack"
-  />
-  <img
-    src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png"
-    height="48"
-    width="48"
-    alt="Expo"
-    title="Expo"
   />
 </div>
 <br />
