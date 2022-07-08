@@ -110,13 +110,6 @@
     alt="Docker"
     title="Docker"
   />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
-    height="48"
-    width="48"
-    alt="GraphQL"
-    title="GraphQL"
-  />
 </div>
 <br />
 <div>
