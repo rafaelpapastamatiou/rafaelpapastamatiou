@@ -62,13 +62,6 @@
     title="PostgreSQL"
   />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
-    height="48"
-    width="48"
-    alt="AWS"
-    title="AWS"
-  />
-  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
     height="48"
     width="48"
