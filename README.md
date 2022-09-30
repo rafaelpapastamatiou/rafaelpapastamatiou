@@ -37,43 +37,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
     height="48"
     width="48"
-    alt="React JS e React Native"
-    title="React JS e React Native"
-  />
-  <img
-    src="https://github.com/rafaelpapastamatiou/icons/blob/main/nextjs-icon-light.svg"
-    height="48"
-    width="48"
-    alt="Next.js"
-    title="Next.js"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
-    height="48"
-    width="50"
-    alt="NestJS"
-    title="NestJS"
-  />
-  <img
-    src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4"
-    height="48"
-    width="48"
-    alt="Express.js"
-    title="Express.js"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/sequelize/sequelize-original.svg"
-    height="48"
-    width="48"
-    alt="Sequelize"
-    title="Sequelize"
-  />
-  <img
-    src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4"
-    height="48"
-    width="48"
-    alt="TypeORM"
-    title="TypeORM"
+    alt="React JS"
+    title="React JS"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
